@@ -23,12 +23,24 @@ nav, footer, article {
  
 section#sheet {
     width: 6in;
-    margin-bottom: 0in;
-    margin-top: 0in;
-    margin-right: auto;
-    margin-left: auto;
+    margin: .1in 0in .1in .3in;
 }
 
+img.size1 {
+    width: 5in;
+}
+
+img.size2 {
+    width: 3in;
+}
+
+img.size3 {
+    width: 2in;
+}
+
+img.size4 {
+    width: 1.5in;
+}
 
 
 

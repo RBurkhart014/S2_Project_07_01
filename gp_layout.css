@@ -67,7 +67,7 @@ article {
     nav.horizontal > ul {
         display: -webkit-flex;
         display: flex;
-        -webkit-flex: nowrap;
+        -webkit-flex-flow: nowrap;
         flex-flow: nowrap;
         height: 40px;
     }
