@@ -71,6 +71,7 @@ article {
         flex-flow: nowrap;
         height: 40px;
     }
+    /* The styles above and below created the flexboxes and made the growth and shrink rate */
     nav.horizontal > ul > li {
         -webkit-flex: 1 1 auto;
         flex: 1 1 auto; 
@@ -88,3 +89,4 @@ article {
         width: 30%;
     }
 }
+/* Adjusted the sizes of the images */
